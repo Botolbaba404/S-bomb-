@@ -1,4 +1,4 @@
-# S-bomb-
+
 # apt update &amp;&amp; apt upgrade
 # pkg install python
 # pkg install python2
